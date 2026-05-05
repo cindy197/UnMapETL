@@ -170,7 +170,7 @@ A aplicação foi containerizada para:
 | Tecnologia | Versão | Uso |
 |---|---|---|
 | Python | 3.11+ | Linguagem principal |
-| Pandas | latest | Manipulação e análise de dados |
+| Pandas | 3.0.2 | Manipulação e análise de dados |
 | Docker | — | Containerização |
 | Jupyter Notebook | — | Exploração interativa |
  
