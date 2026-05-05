@@ -1,6 +1,5 @@
 services:
   app:
-    build: .
-    container_name: timesheet-analysis
+    build: .    
     volumes:
       - .:/app
